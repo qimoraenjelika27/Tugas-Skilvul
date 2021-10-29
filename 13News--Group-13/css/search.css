@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(197, 183, 157);
+}
+
+footer{
+    bottom: 0cm; 
+    background-color: black;
+}
+#block{
+    display: none;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(168, 0, 0);
+}
+#bloc{
+    display: none;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(168, 0, 0);
+}

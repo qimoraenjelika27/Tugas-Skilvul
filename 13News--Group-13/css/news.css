@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(197, 183, 157);
+}
+
+.judul>p{
+    text-align: left; font-size: 36px; color: brown;
+}
+
+@media only screen and (max-width: 600px) {
+    .news {
+        min-width: 600px;
+    }
+    .trending, img{
+        max-width: fit-content;
+        margin: 3em;
+    }
+}
+
+        img{
+            width: 100%;           
+        }
+
+
+    .berita{
+        margin: 4em;
+        padding: 2em;
+        font-weight: bold;
+    }
